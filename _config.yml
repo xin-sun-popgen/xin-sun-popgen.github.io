@@ -80,15 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Xin Sun, Ph.D."
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "Data Science & Bioinformatics. Genomics and Evolution. Population genomics."
+  location         : "Copenhagen, Denmark"
+  employer         : 
+  googlescholar    : "http://scholar.google.com/citations?user=QgrH3XkAAAAJ&hl=en"
+  email            : "sunxin931128(at)gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +94,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/xinsun1"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/xin-sun-72042111a/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-5902-9949"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/xin_sun_"
   vine             :
   weibo            :
   xing             :
