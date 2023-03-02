@@ -12,8 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Pharmaceutical Engineering, Jilin University, China, 2010
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Intergrated Life Science (Biology), Peking University, China, 2020
 
 Work experience
 ======
