@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: "Hey! Welcome to my website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,4 +9,6 @@ redirect_from:
 ---
 
 Something about Xin!
+I work with data.
+
 
